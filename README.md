@@ -1,6 +1,5 @@
 <p align="center">
   <img src="syncra_logo_01.png" alt="Syncra Logo" width="420"/>
-  <h1 align="center">Syncra</h1>
   <p align="center"><i>AI-Powered Resume Matcher</i></p>
   <p align="center"><i>Elegant, Explainable, and Entirely Local.</i></p>
 </p>
