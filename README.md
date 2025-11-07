@@ -7,6 +7,20 @@
 
 ---
 
+<p align="center">
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Built with Streamlit"/>
+  </a>
+  <a href="https://ollama.ai/">
+    <img src="https://img.shields.io/badge/Powered%20by-Ollama-0A66C2?style=for-the-badge&logo=ollama&logoColor=white" alt="Powered by Ollama"/>
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 **Overview**
 
 **Syncra** is an interactive resume matching platform built using  
