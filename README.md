@@ -5,8 +5,6 @@
 > **Elegant, Explainable, and Entirely Local**  
 > Syncra helps recruiters and hiring managers intelligently match candidate resumes against job descriptions using fully **local AI models** — no cloud, no data leaks, just insights.
 
----
-
 <p align="center">
   <a href="https://streamlit.io/">
     <img src="https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Built with Streamlit"/>
