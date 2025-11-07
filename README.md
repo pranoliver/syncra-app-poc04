@@ -1,10 +1,9 @@
-# 🧠 **Syncra — AI-Powered Resume Matcher**
-
-![Syncra Logo](syncra_logo_01.png)
-
-> **Elegant, Explainable, and Entirely Local**  
-> Syncra helps recruiters and hiring managers intelligently match candidate resumes against job descriptions using fully **local AI models** — no cloud, no data leaks, just insights.
-
+<p align="center">
+  <img src="syncra_logo_01.png" alt="Syncra Logo" width="420"/>
+  <h1 align="center">Syncra</h1>
+  <p align="center"><i>AI-Powered Resume Matcher</i></p>
+  <p align="center"><i>Elegant, Explainable, and Entirely Local.</i></p>
+</p>
 <p align="center">
   <a href="https://streamlit.io/">
     <img src="https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Built with Streamlit"/>
@@ -20,6 +19,8 @@
 ---
 
 ## 🚀 **Overview**
+
+**Syncra** helps recruiters and hiring managers intelligently match candidate resumes against job descriptions using fully **local AI models** — no cloud, no data leaks, just insights.
 
 **Syncra** is an interactive resume matching platform built using  
 💻 **Streamlit** (frontend) + 🐍 **Python backend** + 🧩 **Ollama local LLMs**.
