@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 .DS_Store
+syncra_cache
 
 # Virtual environments
 .venv
