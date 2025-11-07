@@ -1,0 +1,17 @@
+# Initialize the project
+uv init syncra-app-poc03
+
+# Change Directory
+cd syncra-app-poc03
+
+# Add all the packages
+uv add streamlit pandas scikit-learn PyPDF2 requests diskcache sentence-transformers watchdog PyMuPDF
+
+# Activate the .venv
+source .venv/bin/activate
+
+# Run the project
+uv run streamlit run app.py
+
+# Format all the python files
+ruff format
